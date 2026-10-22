@@ -29,14 +29,14 @@ ODIR-5K (Kaggle: andrewmvd/ocular-disease-recognition-odir5k)
 3. Run the cells in order.
 
 ## Files
-- `MultiRetinalDiseaseDetectionUsingHybridTransforms.ipynb`: full project code (kaggle notebook)
+- `multiretinaldiseasedetectionusinghybridtransforms.ipynb`: full project code (kaggle notebook)
 
 ## Note
 Research prototype. Not for medical use.
 
 ## Teams
-SINDHU 
-SNEHA S SHETTY
-VEENA VASUDEVA VAIDYA
-VENKATESH R
+SINDHU,
+SNEHA S SHETTY,
+VEENA VASUDEVA VAIDYA,
+VENKATESH R,
 Dept. of ISE, EPCET
