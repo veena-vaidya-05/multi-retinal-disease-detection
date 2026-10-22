@@ -34,5 +34,9 @@ ODIR-5K (Kaggle: andrewmvd/ocular-disease-recognition-odir5k)
 ## Note
 Research prototype. Not for medical use.
 
-## Team
+## Teams
+SINDHU 
+SNEHA S SHETTY
+VEENA VASUDEVA VAIDYA
+VENKATESH R
 Dept. of ISE, EPCET
